@@ -1,0 +1,17 @@
+{
+  "name": "building-apps-with-react-redux",
+  "version": "1.0.0",
+  "description": "Pluralsight course on building applications using React and Redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Pluralsight",
+    "tutorial"
+  ],
+  "author": "Jack Kinsey <jack.w.kinsey@gmail.com>",
+  "license": "MIT"
+}
